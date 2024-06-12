@@ -16,4 +16,4 @@ and the server to get the same result.
 
 In the browser you can then visit `http://localhost:3000` for the client side of the application.
 
-**####Note that you must have the server running as well as the client**
+**Note that you must have the server running as well as the client**
